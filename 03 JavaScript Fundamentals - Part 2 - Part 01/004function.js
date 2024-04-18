@@ -20,5 +20,3 @@ const age2 = function (BirthYear){
 
 const ans = age2(2003)
 console.log(ans);
-
-
